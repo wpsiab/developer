@@ -1,0 +1,1 @@
+update ab set name = 'Md.Abdullah' where category=1;
